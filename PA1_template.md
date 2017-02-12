@@ -1,5 +1,5 @@
 # Reproducible Research: Peer Assessment 1
-
+**If any of the plots are generated you could find them in the folder instructions_fig**
 
 ## Loading and preprocessing the data
 
